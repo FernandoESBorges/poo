@@ -1,10 +1,13 @@
 com\unincor\poo\ProgramRectangle.class
+com\unincor\poo\Program.class
+com\unincor\poo\util\CalculatorDolar$Calculator.class
+com\unincor\poo\util\CalculatorDolar.class
+com\unincor\poo\Aplication.class
+entities\Funcionario.class
 entities\RectangleMedidas.class
 entities\Aluno.class
 com\unincor\poo\Poo.class
 com\unincor\poo\ProgramFuncionario.class
-com\unincor\poo\Program.class
 com\unincor\poo\util\Calculator.class
 entities\Product.class
-com\unincor\poo\Aplication.class
-entities\Funcionario.class
+com\unincor\poo\CurrencyConverter.class
