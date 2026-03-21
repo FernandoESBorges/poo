@@ -4,5 +4,7 @@ entities\Aluno.class
 com\unincor\poo\Poo.class
 com\unincor\poo\ProgramFuncionario.class
 com\unincor\poo\Program.class
+com\unincor\poo\util\Calculator.class
 entities\Product.class
+com\unincor\poo\Aplication.class
 entities\Funcionario.class
