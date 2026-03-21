@@ -13,8 +13,20 @@ public class Aluno {
     public String name;
     public double nota1, nota2, nota3;
     
-    public double notalTotal(){
+    public double notaTotal(){
         return nota1+nota2+nota3;
+    }
+   
+    public String toString(){
+        if (notaTotal()>= 60) {
+            return name+ " notas somadas: "+ notaTotal()+ " E voçê passou";
+                   
+            
+        }
+        else{
+        return  name+ " notas somadas: "+ notaTotal()+ " E voçê não passou e faltou essa nota para atingir o 60%: "
+                + (60-notaTotal());
+        }
     }
     
     
